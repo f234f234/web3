@@ -61,6 +61,6 @@ In - depth market research reports, protocol dynamics tracking, and DAO governan
 ## [Nansen](https://app.nansen.ai/)
 Tag on - chain addresses to track the trading behaviors of institutions, funds, and smart money.
 
-## [Coinigy](https://www.coinigy.com/)
+## [Coinigy][def]
 This platform provides comprehensive market data for over 40,000 cryptocurrencies, including real-time prices, trading volumes, and market capitalizations, covering both major and niche coins. It also features advanced charting tools, allowing users to view K-line charts across multiple time periods and overlay variou.
 
