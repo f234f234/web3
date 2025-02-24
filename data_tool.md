@@ -64,3 +64,97 @@ Tag on - chain addresses to track the trading behaviors of institutions, funds, 
 ## [Coinigy](https://www.coinigy.com/)
 This platform provides comprehensive market data for over 40,000 cryptocurrencies, including real-time prices, trading volumes, and market capitalizations, covering both major and niche coins. It also features advanced charting tools, allowing users to view K-line charts across multiple time periods and overlay variou.
 
+## [Space and Time](https://www.spaceandtime.io/)
+The first decentralized data warehouse that connects on-chain and off-chain data to power a new generation of smart contract use cases.
+
+## [Airstack](https://www.airstack.xyz/)
+Easy API for querying data across projects and blockchain ecosystems.
+
+## [Hypernative](https://www.hypernative.io/)
+Hypernative is a proactive security and risk prevention platform for web3/crypto.
+
+## [Spring](https://www.springlabs.com/)
+Spring Labs helps businesses securely store and share sensitive data.
+
+## [Lava Network](https://www.lavanet.xyz/)
+Lava connects dapps to a decentralized network of RPC Providers for fast, reliable & private access.
+
+## [Coherent](https://coherent.xyz/)
+Coherent is providing APIs to build user-friendly DApps.
+
+## [Flipside](https://docs.flipsidecrypto.xyz/)
+Flipside lets community members create and share data insights on their favorite crypto projects.
+
+## [Token Terminal](https://tokenterminal.com/)
+Token Terminal is a financial data aggregator targeting blockchains and dApps.
+
+## [SQD](https://www.sqd.ai/)
+SQD enables permissionless, cost-efficient access to petabytes of high-value Web3 data
+
+
+## [SubQuery](https://subquery.network/)
+SubQuery is a data indexer that provides fast, flexible, reliable, and decentralized APIs.
+
+## [Transpose](https://www.transpose.io/)
+Real time access to high level blockchain data via REST and SQL API.
+
+## [Ceramic](https://ceramic.network/)
+Ceramic is a decentralized data network that brings data composability to web3 applications.
+
+
+## [Whalemap](hhttps://www.whalemap.io/)
+Whalemap’s analytics tools provide users with precise, actionable and timely blockchain data.
+
+## [Token Flow](https://tokenflow.live/)
+Token Flow is a blockchain time machine that queries data from any network since its inception.
+
+## [Cryptoneur](https://www.cryptoneur.xyz/)
+Cryptoneur has a complete and up-to-date database of Web3 grants.
+
+## [Allium](https://www.allium.so/)
+Allium serves blockchain analytics teams with easy to use & accurate data
+
+## [apespace](https://apespace.io/)
+ApeSpace is the ultimate crypto analytics platform with real-time charting, trading, and analytics.
+
+
+## [Dapplooker](https://dapplooker.com/)
+DappLooker is a no-code multi-chain blockchain analytics and visualization platform. 
+
+## [Whaleportal](https://whaleportal.com/)
+Whaleportal is a cryptocurrency trading dashboard.
+
+
+## [Chainbase](https://chainbase.com/)
+All-in-one web3 data infrastructure for indexing, transforming, and utilizing on-chain data at scale.
+
+## [Mobula API](https://docs.mobula.io/)
+Mobula APIs provide market & historical data about any crypto asset, wallets, swap quotes, etc.
+
+
+## [Xangle](https://xangle.io/)
+Xangle is a Web3 data research platform trusted by financial and tech giants.
+
+
+## [Playgrounds](https://playgrounds.network/)
+Playgrounds provide intuitive and reliable blockchain data analytics powered by Subgraphs.
+
+
+## [BlockSurvey](https://blocksurvey.io/)
+BlockSurvey offers end-to-end encrypted forms and surveys without any ads or trackers.
+
+## [Bello](https://bello.lol/)
+Bello transforms blockchain data into actionable insights for the new generation of creators.
+
+
+## [Sentio](https://www.sentio.xyz/)
+With Sentio, you can monitor, analyze, and diagnose data all in one place.
+
+## [Blockpour](https://www.blockpour.com/)
+Blockpour is a data analytics platform and comprehensive DeFi API.
+
+## [ZettaBlock](https://zettablock.com/)
+Real-time web3 data infra for indexing and analytics. Build your own low-latency APIs for your app.
+
+## [Pentacle](https://pentacle.xyz/)
+Pentacle helps you explore protocols – with a focus on security, reputation, and relationships.
